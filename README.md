@@ -66,6 +66,10 @@ For Testing we will use [Expo Client](https://expo.io/tools#client) on :
 * Android - Real Device
 * IOS - Real Device
 
+
+### Debugging 
+we will use [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - official debugger of React Native, and includes React Inspector / Redux DevTools
+
 ### Folder Structure 
 ![N|Solid](https://i.ibb.co/LQ6NT45/SRC.png)
 
